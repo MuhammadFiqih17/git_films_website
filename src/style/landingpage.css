@@ -1,0 +1,53 @@
+.myBG {
+    height: 150vh;
+    background: url("../assets/bggit.jpg");
+    background-size: cover;
+}
+
+.intro{
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    font-size: 40px;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 3px 3px black;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.trending{
+    height: auto;
+    background: url("../assets/trend.jpg");
+    background-size: cover;
+}
+
+.horror{
+    height: auto;
+    background: url("../assets/horor.jpg");
+    background-size: cover;
+}
+
+.act{
+    height: auto;
+    background: url("../assets/act.jpg");
+    background-size: cover;
+}
+
+.movimg{
+    height: 10px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.movwrap{
+
+}
+
+.images{
+    height: 500px;
+}
